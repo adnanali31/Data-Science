@@ -1,4 +1,4 @@
-#Data Science Repository
+Data Science Repository
 This repository contains resources for learning and practicing data science concepts, including machine learning, data analysis, and data visualization. It includes code examples and datasets in various programming languages such as Python, R, and SQL.
 
 Contents
